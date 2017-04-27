@@ -313,6 +313,10 @@ body {
   cursor: pointer;
 }
 
+.row {
+  margin-top: 15px;
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
@@ -339,6 +343,9 @@ body {
   .col-md-4 {
     margin-top: 10px;
   }
+  .row {
+    margin-top: 0px;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
@@ -356,8 +363,4 @@ body {
     position: relative;
     top: 1px;
   }
-}
-
-.row {
-  margin-top: 15px;
 }
