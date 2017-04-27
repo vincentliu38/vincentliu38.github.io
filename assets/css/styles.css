@@ -346,6 +346,9 @@ body {
   .row {
     margin-top: 0px;
   }
+  .job-title {
+    text-align: center;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
