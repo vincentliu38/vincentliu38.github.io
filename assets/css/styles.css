@@ -263,7 +263,8 @@ p {
 }
 
 .skills-tech {
-  width: 70px;
+  width: 20px;
+  margin-right: 3%;
 }
 
 .project-screenshot {
@@ -332,6 +333,9 @@ body {
   .resume {
     display: none;
   }
+  .col-md-3 {
+    margin-top: 10px;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
@@ -349,4 +353,8 @@ body {
     position: relative;
     top: 1px;
   }
+}
+
+.row {
+  margin-top: 15px;
 }
