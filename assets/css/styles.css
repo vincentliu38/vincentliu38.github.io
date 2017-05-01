@@ -298,6 +298,10 @@ body {
   cursor: pointer;
 }
 
+.resumeIcon {
+  color: #2e4049
+}
+
 .row {
   margin-top: 15px;
 }
