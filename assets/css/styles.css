@@ -51,22 +51,15 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #4B6A78;
   position: absolute;
   right: 0;
   width: 240px;
   height: 100%;
   min-height: 800px;
-  color: #fff;
-}
-.sidebar-wrapper a {
-  color: #fff;
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
-  background: rgba(0, 0, 0, 0.2);
   text-align: center;
-  color: #fff;
 }
 .sidebar-wrapper .name {
   font-size: 32px;
@@ -75,7 +68,6 @@ p {
   margin-bottom: 10px;
 }
 .sidebar-wrapper .tagline {
-  color: rgba(255, 255, 255, 0.6);
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
@@ -120,18 +112,15 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .education-container .meta {
-  color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
   margin-top: 0;
 }
 .sidebar-wrapper .education-container .time {
-  color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
 }
 .sidebar-wrapper .languages-container .lang-desc {
-  color: rgba(255, 255, 255, 0.6);
 }
 .sidebar-wrapper .languages-list {
   margin-bottom: 0;
