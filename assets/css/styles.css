@@ -247,6 +247,8 @@ p {
 .pic {
   width: 70%;
   border-radius: 50%;
+  background-color: transparent;
+  opacity: 0.8;
 }
 
 .skills-tech {
